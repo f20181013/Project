@@ -1,0 +1,9 @@
+.linkimage
+{
+	background-image: url("stars.jpg");	
+	background-size: cover;
+}
+.imagecorrect
+{
+	float: right;
+}
